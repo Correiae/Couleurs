@@ -27,3 +27,12 @@ Le script vous demandera de confirmer si vous avez ajusté la taille du plan de 
 
 Sélection du dossier
 Le script vous invitera ensuite à sélectionner le dossier contenant les fichiers .ai à traiter. Choisissez le dossier approprié et laissez le script faire le reste.
+Notes
+Ce script est conçu pour être utilisé avec Adobe Illustrator et nécessite que l'application soit installée sur votre ordinateur.
+Assurez-vous de sauvegarder votre travail avant d'exécuter le script pour éviter toute perte de données.
+Contribution
+Les contributions sont les bienvenues ! Si vous souhaitez améliorer ce script, n'hésitez pas à soumettre une pull request.
+
+Licence
+Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+
